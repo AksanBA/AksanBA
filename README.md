@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on small weekend projects to keep my skills sharp in the AI & ML space. :)
+- 🔭 I’m currently working on small weekend projects to keep my skills sharp in the AI & ML space. :D
 - 🌱 I’m currently learning Snowflake!
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 💬 Ask me about data science in the media/marketing industry.
